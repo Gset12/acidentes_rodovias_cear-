@@ -12,7 +12,7 @@
 
 ## Objetivo Geral:
 
-Este projeto tem como objetivo realizar um estudo sobre a ocorrência de vítimas em rodovias federais no Estado do Ceará, com foco na análise do número de vítimas ao longo dos anos, de acordo com os diferentes tipos de acidentes registrados. O conjunto de dados pode ser encontrando em [Painel de Acidentes da CNT](https://www.cnt.org.br/painel-acidente) para mais informações.
+Este projeto tem como objetivo realizar um estudo sobre a ocorrência de vítimas em rodovias federais no Estado do Ceará, com foco na análise do número de vítimas ao longo dos anos, de acordo com os diferentes tipos de acidentes registrados. O conjunto de dados pode ser encontrando em [Painel de Acidentes da CNT](https://www.cnt.org.br/painel-acidente).
 
 A análise é conduzida por meio de um modelo logístico, utilizando o método de quase-verossimilhança. O estudo está estruturado em quatro etapas principais: metodologia, análise descritiva, modelagem e diagnóstico do modelo.
 
